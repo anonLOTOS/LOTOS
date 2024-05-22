@@ -1,0 +1,12 @@
+*.csv
+__pycache__
+checkpoint
+*.png
+logs
+*.out
+data
+data_new
+job_submit.slurm
+slurm*
+*events.out.tfevents*
+*.pth
